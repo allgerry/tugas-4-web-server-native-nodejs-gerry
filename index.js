@@ -1,4 +1,6 @@
-const boot = require("./src/server"); //berakit rakit kehulu
+const boot = require("./src/server"); 
+
+
 
 const server = boot()
 const port = 3000

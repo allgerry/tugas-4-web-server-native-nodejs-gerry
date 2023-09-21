@@ -7,6 +7,7 @@ router.init = (req,res) => {
     }
 
     // silahkan tambahkan routing lain disini
+    //ganambah routing lain, bingung
 
     else {
         res.end("Not Found Route !")
